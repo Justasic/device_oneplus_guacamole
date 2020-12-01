@@ -16,7 +16,7 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 WITH_GAPPS := true
 TARGET_BOOT_ANIMATION_RES := 1440
-TARGET_GAPPS_ARCH := arm64
+EXTRA_FOD_ANIMATIONS := true
 
 EVO_DONATE_URL := https://paypal.me/Justasic
 EVO_MAINTAINER := NightShadow
