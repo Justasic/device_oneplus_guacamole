@@ -26,9 +26,7 @@ EVO_SUPPORT_URL := https://t.me/EvolutionXOnePlus
 PRODUCT_NAME := evolution_guacamole
 PRODUCT_DEVICE := guacamole
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus 7 Pro
-PRODUCT_MANUFACTURER := OnePlus
-
+PRODUCT_MODEL := 7 Pro
 PRODUCT_AAPT_CONFIG := xxxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
 PRODUCT_CHARACTERISTICS := nosdcard
