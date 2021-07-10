@@ -28,6 +28,11 @@ PRODUCT_AAPT_CONFIG := xxxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
 PRODUCT_CHARACTERISTICS := nosdcard
 
+# Evo stuffs
+EVO_DONATE_URL := https://paypal.me/Justasic
+EVO_MAINTAINER := NightShadow
+EVO_SUPPORT_URL := https://t.me/EvolutionXOnePlus
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 3120
 TARGET_SCREEN_WIDTH := 1440
